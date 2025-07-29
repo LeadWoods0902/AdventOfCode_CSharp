@@ -7,6 +7,7 @@ My C# solutions to [Advent of Code](https://adventofcode.com/)
 :x: Challenge not yet completed </br>
 
 | Day   | 2022                              |
+| ----- | --------------------------------- |
 | 1     | [:star2:](AoC2022/Day01/Day01.cs) |
 | 2     | [:star2:](AoC2022/Day02/Day02.cs) |
 | 3     | [:star2:](AoC2022/Day03/Day03.cs) |
