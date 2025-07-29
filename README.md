@@ -14,7 +14,7 @@ My C# solutions to [Advent of Code](https://adventofcode.com/)
 | 4     | [:star2:](AoC2022/Day04/Day04.cs) |
 | 5     | [:star2:](AoC2022/Day05/Day05.cs) |
 | 6     | [:star2:](AoC2022/Day06/Day06.cs) |
-| 7     | [:star1:](AoC2022/Day07/Day07.cs) |
+| 7     | [:star:](AoC2022/Day07/Day07.cs) |
 | 8     | [:x:](AoC2022/Day08/Day08.cs) |
 | 9     | [:x:](AoC2022/Day09/Day09.cs) |
 | 10    | [:x:](AoC2022/Day10/Day10.cs) |
