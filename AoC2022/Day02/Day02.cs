@@ -1,5 +1,25 @@
 ﻿namespace AoC2022.Day02;
 
+// --- Advent of Code 2022 - Day 2: Rock Paper Scissors ---
+//
+// Input: Each line represents a round of Rock-Paper-Scissors.
+//   - Opponent's move: A = Rock, B = Paper, C = Scissors
+//   - Your move (Part 1): X = Rock, Y = Paper, Z = Scissors
+//   - Desired outcome (Part 2): X = Lose, Y = Draw, Z = Win
+//
+// Scoring:
+//   - Shape: Rock = 1, Paper = 2, Scissors = 3
+//   - Outcome: Loss = 0, Draw = 3, Win = 6
+//   - Round Score = Shape + Outcome (i.e. plays paper and wins => 2 + 6 = 8)
+//
+// Goal:
+//   Part 1: Calculate total score assuming the second column is your move.
+//   Part 2: Calculate total score assuming the second column is the desired outcome.
+//
+// My Answers:
+//   Part 1: 13446
+//   Part 2: 13509
+
 public class Day02: Day00
 {
     /* A, X = Rock
